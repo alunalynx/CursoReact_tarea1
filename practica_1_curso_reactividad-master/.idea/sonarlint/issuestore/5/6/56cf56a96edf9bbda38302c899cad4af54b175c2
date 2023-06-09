@@ -1,0 +1,6 @@
+
+m	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñğœì8áÜìˆ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë÷Èíúÿÿÿÿ8áÜìˆ1
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8¨½İŠ‰1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¸ 8âÜìˆ1

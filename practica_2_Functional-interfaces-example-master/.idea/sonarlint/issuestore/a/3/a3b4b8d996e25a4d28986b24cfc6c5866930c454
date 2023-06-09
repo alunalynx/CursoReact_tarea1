@@ -1,0 +1,49 @@
+
+^
+java:S4973F"<Strings and Boxed types should be compared using "equals()".(¼Ô”åıÿÿÿÿ8Ì£Ë‘Š1
+i
+java:S3655“"FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(¼•šÿÿÿÿÿ8òøÑ‘Š1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.( «Ò–8×¤Ë‘Š1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ò¢Ù¤8×¤Ë‘Š1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(˜…‹8×¤Ë‘Š1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ÏäëÄøÿÿÿÿ8×¤Ë‘Š1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(æÿÈ­ùÿÿÿÿ8×¤Ë‘Š1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ñ¦¢8×¤Ë‘Š1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(Şèùúÿÿÿÿ8×¤Ë‘Š1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ğŒ«8×¤Ë‘Š1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Ìêå©ùÿÿÿÿ8×¤Ë‘Š1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Şñ¿®8Ø¤Ë‘Š1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(˜Ê†şÿÿÿÿ8Ø¤Ë‘Š1
+T	java:S106H"9Replace this use of System.out or System.err by a logger.(§œ‡8Ù¤Ë‘Š1
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(¬÷ç‰8Ù¤Ë‘Š1
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(Ú¤¶²8Ú¤Ë‘Š1
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(ª›Ë¶ùÿÿÿÿ8Ú¤Ë‘Š1
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(ÏãĞø8Ú¤Ë‘Š1
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(½ºúÿÿÿÿ8Ú¤Ë‘Š1
+T	java:S106h"9Replace this use of System.out or System.err by a logger.(å¦$8Ú¤Ë‘Š1
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(îœâª8Ú¤Ë‘Š1
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(‹Îíò8Û¤Ë‘Š1
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(½Ú¼ä8Û¤Ë‘Š1
+Y	java:S125€"<This block of commented-out lines of code should be removed.(Áëş©8Ü¤Ë‘Š1
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8İ¤Ë‘Š1
+]
+java:S1854":Remove this useless assignment to local variable "salemm".(¼•šÿÿÿÿÿ8©àÔ‘Š1
+]
+java:S1854“":Remove this useless assignment to local variable "salemm".(¼•šÿÿÿÿÿ8üÿÔ‘Š1
+N
+java:S1481Š"+Remove this unused "salemm" local variable.(…¬ÇÊıÿÿÿÿ8ãºÔ‘Š1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(©¤Üıÿÿÿÿ8ä¤Ë‘Š1
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(‚ª·ùÿÿÿÿ8ä¤Ë‘Š1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¢Öùùÿÿÿÿ8ä¤Ë‘Š1
+V	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(—»Ü8å¤Ë‘Š1
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(´ƒÇüÿÿÿÿ8æ¤Ë‘Š1
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ8æ¤Ë‘Š1
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ8è¤Ë‘Š1
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ8ê¤Ë‘Š1
+O
+java:S3599Á",Use another way to initialize this instance.(“ŸÖ‹øÿÿÿÿ8ç¤Ë‘Š1
+|
+java:S1171Á"YMove the contents of this initializer to a standard constructor or to field initializers.(“ŸÖ‹øÿÿÿÿ8è¤Ë‘Š1
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(Èµ‰¯ıÿÿÿÿ8ê¤Ë‘Š1
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(Í™à²øÿÿÿÿ8ÀÖÑ‘Š1
+U	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(íë“v8ŒæÙ‘Š1
