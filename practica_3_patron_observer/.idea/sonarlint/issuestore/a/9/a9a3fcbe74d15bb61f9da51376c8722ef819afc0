@@ -1,0 +1,8 @@
+
+r
+java:S3655#"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(”ƒ©’şÿÿÿÿ8ƒµü…Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø„¤Ñ8ÜÂÿ‹1
+Z
+java:S1611+"8Remove the parentheses around the "observador" parameter(Ø×¨İıÿÿÿÿ8ƒÜÂÿ‹1
+N
+java:S1602+",Remove useless curly braces around statement(Ø×¨İıÿÿÿÿ8ƒÜÂÿ‹1
