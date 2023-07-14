@@ -1,0 +1,27 @@
+
+œ
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…¬°áøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(² ö
+B
+java:S1602,",Remove useless curly braces around statement(ç‚¦¹
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Ç­öõ
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ÆÉõúÿÿÿÿ8­‰ò’•1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ê²ıÿÿÿÿ8®‰ò’•1
+I
+java:S1602P",Remove useless curly braces around statement(ç‚¦¹8®‰ò’•1
+N
+java:S1611Q"1Remove the parentheses around the "key" parameter(¾Â½¸8¯‰ò’•1
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(Ç­öõ8¯‰ò’•1
+X	java:S125T"<This block of commented-out lines of code should be removed.(¾»æ8¯‰ò’•1
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(Ö•8±‰ò’•1
+T	java:S106`"9Replace this use of System.out or System.err by a logger.(‚åìy8±‰ò’•1
+h	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌƒĞäøÿÿÿÿ
+T	java:S106p"9Replace this use of System.out or System.err by a logger.(‚ºš
+8±‰ò’•1
+J
+java:S1602‚",Remove useless curly braces around statement(ç‚¦¹8³‰ò’•1
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8³‰ò’•1
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(ÎŸ…À8³‰ò’•1
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ8³‰ò’•1
